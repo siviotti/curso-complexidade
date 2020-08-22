@@ -7,7 +7,7 @@ package br.com.artesoftware.cursocomplexidade;
  */
 public class ClasseJavaExemplo {
 
-    public int soma(int a, int b){
+    public int soma(int a, int b) {
         return a + b;
     }
 }
